@@ -1,0 +1,112 @@
+      Tag      VR Length Value
+(0008, 0005) | CS | O | ISO_IR 100
+(0008, 0008) | CS | 34 | ['ORIGINAL', 'PRIMARY', 'AXIAL', 'CT_SOM5 SPI']
+(0008, 0016) | UI | 26 | 1.2.840.10008.5.1.4.1.1.2
+(0008, 0018) | UI | 3 | 1.3.6.1.4.1.14519.5.2.1.5099.8010.303307058200146391535641264915
+(0008, 0020) | DA | 8 | 19990823
+(0008, 0021) | DA | 8 | 19990823
+(0008, 0022) | DA | 8 | 19990823
+(0008, 0023) | DA | 8 | 19990823
+(0008, 0030) | TM | 14 | 192847.012000
+(0008, 0031) | TM | 14 | 192939.908000
+(0008, 0032) | TM | 14 | 192954.559997
+(0008, 0033) | TM | 14 | 192954.559997
+(0008, 0050) | SH | 16 | 2819497684894126
+(0008, 0060) | CS | 2 | CT
+(0008, 0070) | LO | 8 | SIEMENS
+(0008, 0090) | PN | 2 |  
+(0008, 1010) | SH | 6 | MEDPC
+(0008, 1030) | LO | 18 | Neck^HeadNeckPETCT
+(0008, 103e) | LO | 12 | CT 5.0 H30s
+(0008, 1090) | LO | 8 | Emotion
+(0009, 0010) | LO | 20 | SIEMENS CT VA1 DUMMY
+(0010, 0010) | PN | 10 | 0522c0001
+(0010, 0020) | LO | 10 | 0522c0001
+(0010, 0030) | DA | 0 | 
+(0010, 0040) | CS | 2 | F
+(0010, 1010) | AS | 4 | 000D
+(0010, 1030) | DS | 6 | 51.302
+(0012, 0010) | LO | 46 | American_College_of_Radiology_Imaging_Network
+(0012, 0020) | LO | 4 | 4500
+(0012, 0021) | LO | 22 | RTOG 0502 / ACRIN 4500
+(0012, 0042) | LO | 2 | 1
+(0012, 0062) | CS | 4 | YES
+(0012, 0063) | LO | 46 | Per DICOM PS 3.15 AnnexE. Details in 0012,0064
+(0012, 0064) SQ (0008, 0100) Code Value                          SH: '113103'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Clean Graphics Option' [(0008, 0100) Code Value                          SH: '113100'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Basic Application Confidentiality Profile'(0008, 0100) Code Value                          SH: '113101'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Clean Pixel Data Option'(0008, 0100) Code Value                          SH: '113103'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Clean Graphics Option'(0008, 0100) Code Value                          SH: '113105'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Clean Descriptors Option'(0008, 0100) Code Value                          SH: '113107'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Retain Longitudinal With Modified Dates Option'(0008, 0100) Code Value                          SH: '113108'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Retain Patient Characteristics Option'(0008, 0100) Code Value                          SH: '113109'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Retain Device Identity Option'(0008, 0100) Code Value                          SH: '113111'
+(0008, 0102) Coding Scheme Designator            SH: 'DCM'
+(0008, 0104) Code Meaning                        LO: 'Retain Safe Private Option']
+(0013, 0010) | LO | 4 | CTP
+(0013, 1010) | UN | 20 | b'Head-Neck Cetuximab\x00'
+(0013, 1011) | UN | 20 | b'Head-Neck Cetuximab\x00'
+(0013, 1012) | UN | 10 | b'RTOG-ACRIN'
+(0013, 1013) | UN | 8 | b'68308010'
+(0018, 0015) | CS | 8 | HEADNECK
+(0018, 0050) | DS | 2 | 5
+(0018, 0060) | DS | 4 | 130
+(0018, 1020) | LO | 6 | VA40C
+(0018, 1030) | LO | 14 | HeadNeckPETCT
+(0018, 1100) | DS | 4 | 500
+(0018, 1110) | DS | 4 | 940
+(0018, 1111) | DS | 4 | 535
+(0018, 1120) | DS | 2 | 0
+(0018, 1130) | DS | 4 | 133
+(0018, 1140) | CS | 2 | CW
+(0018, 1150) | IS | 4 | 1500
+(0018, 1151) | IS | 4 | 127
+(0018, 1152) | IS | 4 | 190
+(0018, 1160) | SH | 2 | 0
+(0018, 1170) | IS | 2 | 16
+(0018, 1190) | DS | 4 | 0.95
+(0018, 1200) | DA | 8 | 19990823
+(0018, 1201) | TM | 14 | 091603.000000
+(0018, 5100) | CS | 4 | HFS
+(0019, 0010) | LO | 20 | SIEMENS CT VA0  COAD
+(0020, 000d) | UI | 64 | 1.3.6.1.4.1.14519.5.2.1.5099.8010.199920086920823171706454903251
+(0020, 000e) | UI | 64 | 1.3.6.1.4.1.14519.5.2.1.5099.8010.427264300850965737262860055580
+(0020, 0010) | SH | 0 | 
+(0020, 0011) | IS | 2 | 2
+(0020, 0012) | IS | 2 | 2
+(0020, 0013) | IS | 2 | 3
+(0020, 0032) | DS | 28 | [-249.51172, -382.51172, -547.2]
+(0020, 0037) | DS | 12 | [1, 0, 0, 0, 1, 0]
+(0020, 0052) | UI | 64 | 1.3.6.1.4.1.14519.5.2.1.5099.8010.812355329601144442952825387096
+(0020, 1040) | LO | 0 | 
+(0020, 1041) | DS | 6 | -547.2
+(0021, 0010) | LO | 12 | SIEMENS MED
+(0028, 0002) | US | 2 | 1
+(0028, 0004) | CS | 12 | MONOCHROME2
+(0028, 0010) | US | 2 | 512
+(0028, 0011) | US | 2 | 512
+(0028, 0030) | DS | 20 | [0.9765625, 0.9765625]
+(0028, 0100) | US | 2 | 16
+(0028, 0101) | US | 2 | 12
+(0028, 0102) | US | 2 | 11
+(0028, 0103) | US | 2 | 0
+(0028, 0301) | CS | 2 | NO
+(0028, 0303) | SH | 8 | MODIFIED
+(0028, 1050) | DS | 6 | [35, 700]
+(0028, 1051) | DS | 8 | [80, 3200]
+(0028, 1052) | DS | 6 | -1024
+(0028, 1053) | DS | 2 | 1
+(0028, 1055) | LO | 16 | ['WINDOW1', 'WINDOW2']
+(0029, 0010) | LO | 18 | SIEMENS CSA HEADER
+(0029, 0011) | LO | 22 | SIEMENS MEDCOM HEADER
+(0032, 1060) | LO | 18 | Neck HeadNeckPETCT
+(0088, 0140) | UI | 64 | 1.3.6.1.4.1.14519.5.2.1.5099.8010.784780811979408194740251235264
+(7fe0, 0010) | OW | 524288 | Unknown | <Large value not displayed>
